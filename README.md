@@ -7,13 +7,6 @@ Spring Cloud 使用的各种示例，以最简单、最实用为标准
 [English](README_EN.md) &nbsp;| &nbsp; **[github地址](https://github.com/ityouknow/spring-cloud-examples)**  &nbsp;| &nbsp; **[码云地址](https://gitee.com/ityouknow/spring-cloud-examples)**
 
 
-推荐程序员都关注的一个漫画公众号
-
-![](http://www.ityouknow.com/assets/images/cartoon.jpg)
-
-关注后，回复：**java** 获取超过 10万 人领取的 Java 知识体系/面试必看资料。
-
-
 
 Spring Cloud 使用的各种示例，以最简单、最实用为标准
 
